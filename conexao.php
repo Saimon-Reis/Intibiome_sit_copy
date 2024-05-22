@@ -1,7 +1,7 @@
 <?php
 
 $usuario = 'root';
-$senha = 'analiviA1';
+$senha = '';//$senha = 'analiviA1';
 $database = 'blog_php';
 $host = 'localhost';
 
